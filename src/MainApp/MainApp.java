@@ -3,8 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package MainApp;
-import  view.signup;
-import Controller.SignupController;
+import  Controller.SignupController;
+import view.signup;
 
 /**
  *
@@ -18,5 +18,5 @@ public class MainApp {
         SignupController controller=new SignupController(signupform);
         controller.open();
     }
-}
+
 
