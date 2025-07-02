@@ -18,5 +18,5 @@ public class MainApp {
         SignupController controller=new SignupController(signupform);
         controller.open();
     }
-}
+
 
